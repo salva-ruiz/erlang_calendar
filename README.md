@@ -1,2 +1,2 @@
-# erlang_calendar
-An Erlang module to calculate dates for a perpetual calendar
+# Perpetual calendar
+*erlang_calendar* is simple an Erlang module to calculate dates for a perpetual calendar.
